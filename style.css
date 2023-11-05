@@ -1,0 +1,30 @@
+#Mal{
+    background-image:url("https://data.1freewallpapers.com/download/maldives-resort-for-adi.jpg");
+    font-size:25px;
+    font-family:Comic Sans MS;
+}
+h1{
+    text-align:center;
+    font-size:30px;
+}
+a{
+    padding:25px;
+    font-size:30px;
+}
+li{
+    display:inline;
+    text-align:center;
+}
+#Sing{
+    background-image:url("https://www.hdwallpapers.in/download/singapore_city_skyline_during_nighttime_with_reflection_4k_hd_travel-HD.jpg");
+    background-size:1265px 1000px;
+    color:white;
+}
+#hong{
+    background-image:url("https://www.pixelstalk.net/wp-content/uploads/2016/11/Hong-Kong-Wallpapers-HD-For-Desktop.jpg");
+    background-size:1265px 1000px;
+}
+.Umai{
+    background-image:url("https://media.vogue.in/wp-content/uploads/2018/04/Your-ultimate-guide-to-Tokyo-Japan1.jpg");
+    background-size:1265px 1000px;
+}
